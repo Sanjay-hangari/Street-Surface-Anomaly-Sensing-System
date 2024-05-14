@@ -10,8 +10,7 @@ combines visual object detection using a camera and the Single shot multibox det
 measurement using ultrasonic sensors.
 
 ### 1. Visual Pothole Detection using Camera and SSD Algorithm: ###
-#### • Camera Placement: 
-A high-resolution camera is strategically mounted at the front of the vehicle, near the car's 
+• Camera Placement: A high-resolution camera is strategically mounted at the front of the vehicle, near the car's 
 logo. This positioning ensures optimal coverage and clear imaging of the street surface ahead.
 
 • Image Capture and Processing: As the vehicle moves, the camera captures continuous images and video 
